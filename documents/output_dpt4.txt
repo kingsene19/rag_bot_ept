@@ -1,0 +1,254 @@
+Initialement prévu parmi les axes du plan stratégique de l’EPT à la suite de l’autonomisation de celle-ci en 2009, le département du Génie Informatique et Télécommunications (GIT) fut créé dans la foulée par arrêté du Directeur de l’EPT suite à une proposition du conseil pédagogique de l’EPT. Toutefois, il n’a ouvert ses portes qu’en 2012-2013. Avec un démarrage par concours direct de niveau bac +2, et accompagné par le recrutement du corps enseignant. Les enseignements ont démarré en Mars 2013 suivant une modalité de formation en alternance en partenariat avec une entreprise privée. Les maquettes de formation ont fait l’objet d’une co-construction avec les entreprises partenaires aussi bien dans la phase de conception que dans la mise en œuvre des enseignements-apprentissages.La formation en Génie Informatique et Télécommunications (GIT) est dispensée depuis l’année académique 2012-2013 et est portée, au sein de l’EPT, par le département du Génie Informatique et Télécommunications (GIT). Elle a pour objectif de former des ingénieurs de conception généralistes dans les métiers des TIC.Le modèle pédagogique du GIT est inspiré de l’Approche par Compétences (APC) dont le département a su faire une subtile adaptation. C’est ainsi dans les maquettes pédagogiques, une importante place est réservée à la culture de l’autonomie de l’élève ingénieur et la centralité autour de l’acquisition de compétences des apprenants est le fil conducteur de la mise en œuvre des programmes. Une autre caractéristique du modèle pédagogique est la flexibilité et l’agilité permettant de s’adapter aux besoins des entreprises et de la recherche développement. Chaque matière ou élément constitutif comporte une partie d’enseignement sous forme de projet. Au-delà de ces projets par éléments constitutifs, chaque année, des projets transversaux sont conçus et encadrés par le corps de formateurs. Ils font l’objet d’un nombre de crédits à la hauteur d’un enseignement ou unité d’enseignement favorisant l’association de plusieurs savoirs associés pour l’acquisition de compétences professionnelles.Le département du GIT compte actuellement 9 enseignants-chercheurs permanents qui assurent 67% des enseignements sur le site de l’EPT. Sept (8) d’entre eux ont été recruté entre 2013 et 2020, et ils étaient tous de jeunes docteurs car ayant soutenu leur thèse après 2010 dont un professeur de rang A, maître de conférences CAMES, habileté à diriger des recherches. Les formateurs du GIT sont assez actifs comme chercheurs et produisent des publications de renommées internationales. Le Laboratoire LTISI monté au sein du GIT a déjà à son actif plusieurs thèses en informatiques encadrées entièrement par les enseignants chercheurs du département.Le corps enseignant fait preuve d’un réel engagement, rendant ainsi collégial la gestion du département. Les enseignants assurent une bonne couverture scientifique à l’internationale à travers leurs publications et certains ont même effectué et soutenu leur thèse à l’étranger.Dans le modèle de formation en alternance du GIT, le reste des 33% des enseignements dispensés sur le site de l’École sont assurés par des intervenants externes, qui nous proviennent des universités sénégalaises ou du monde socio-professionnel. Ils viennent porter main forte surtout sur des spécialités dont le département ne dispose pas encore. L’expertise professionnelle est capitale pour mieux être en contact des évolutions dans les TIC, aussi bien en termes technologies que bonnes pratiques.Dans la phase d’immersion des élèves ingénieurs du GIT, les managers des entreprises assurent plus de 70% de l’encadrement en vraie situation de travail.En effet la formation en GIT est la première au Sénégal se faisant entièrement en alternance école-entreprise dans le supérieur public. Le programme d’études proposé au GIT repose sur une approche par compétences (APC) et est Co-construit avec des entreprises partenaires spécialisées dans les TIC.Plus 6 enseignants sur 7 du GIT ont de l’expérience dans l’élaboration de référentiels de formation par l’APC. L’objectif de cette collaboration et de cette innovation pédagogique est de former des ingénieurs qui intègrent la culture de l’entreprise et les compétences requises les rendant opérationnels avant la fin de leur formation. La base académique acquise à l’EPT est alors consolidée par les entreprises qui assurent aux étudiants un solide complément d’encadrement professionnel et métier.Ce qui permet aux élèves ingénieurs d’allier théorie, pratique et mise en situation réelle durant tout leur cursus. L’ensemble des projets de fin d’études traite de sujets réels des entreprises.La base de recrutement du GIT à l’instar des autres départements de cycle ingénieur de l’EPT est le Tronc Commun (ou années préparatoires). Après les trois (3) premières promotions, toutes celles qui suivent sont constituées d’élèves ingénieurs ayant fait le concours d’entrée de niveau baccalauréat et ont suivi deux années préparatoires. Il s’agit de quatre (4) semestres dont le dernier est un semestre qui prépare à la spécialisation avec des éléments constitutifs en informatique et télécommunications.Le département du GIT renforce l’autonomie, la créativité et l’innovation des élèves ingénieurs par la culture de la fabrication numérique par le biais d’un Fablab. Celui-ci est le réceptacle de certains cours que les étudiants des années préparatoires font avant même d’être entièrement sous la responsabilité du GIT.Le rapport de l’évaluation du CITEF en 2014 a consacré le modèle du GIT comme une innovation. Le programme d’études s’emploie à maintenir une dynamique de qualité en maintenant un niveau d’atteinte des standards de qualité tout en s’ajustant aux besoins du monde socio-professionnel.Les objectifs des 5 années de formation en GIT, sont répartis comme suit :Le cycle préparatoire du TC (2 années : TC1 et TC2) initie les étudiants aux fondamentaux de base en mathématiques, en sciences physiques et chimiques, en informatique, en humanités (techniques de communications, gestion, etc.) nécessaires à l’acquisition des spécialités des sciences de l’ingénieur comme le GIT.Le cycle d’ingénieur spécialisé du DIC (3 années : DIC1, DIC2, et DIC3) prépare les étudiants à diverses compétences (connaissances, aptitudes et savoir-faire) dans la modélisation, la réalisation, et le déploiement de systèmes d’informations, de systèmes logiciels d’entreprise, de systèmes de bases de données, de systèmes de sécurité logiciel, et de systèmes de qualité logicielle, de systèmes réseaux et télécoms. La Figure 1 qui suit décrit la répartition des contenus pédagogiques permettant l’acquisition de ces compétences.
+
+
+Les débouchésA l’issue de leur formation, les ingénieurs diplômés du GIT de l’EPT, peuvent servir dans les métiersd’analyste,de concepteur,d’architecte,de développeur,de testeur et d’administrateur de systèmes logiciels métiers,de chef de projet métier,de chef d’équipe technique,etc.Ils pourront ainsi intégrer toutes les sociétés et organisations évoluant dans les Technologies de l’Information et de la Communications (TIC) et fournissant des services dans la production et la maintenance des systèmes de réseaux et télécommunications, des systèmes d’informations, des systèmes de sécurité de réseaux informatiques et télécoms, des systèmes de bases de données, des systèmes de sécurité logicielle, et des systèmes de qualité logicielle.L’ingénieur issu du GIT peut aussi poursuivre ses études dans des mastères spécialisés ou dans un cycle doctoral de recherche, à l’EPT ou ailleurs, pour approfondir ses connaissances et faire évoluer son expertise dans le domaine de l’informatique et des télécommunications.Le contenu des enseignementsLa formation en GIT vise des contenus pédagogiques qui permettent d’acquérir six catégories de compétences (voir Tableau 2-2) que chaque étudiant se doit d’acquérir à l’issue de sa formation :Compétences – Eléments de compétences
+
+ 
+
+
+
+
+wdt_ID Compétences Eléments de compétences 
+
+
+
+
+
+1
+Développement
+– Modélisation fonctionnelle et structurelle d’un logiciel– Programmation métier d’un logiciel– Choix des Langages de programmation adéquats– Gestion de la performance et de la robustesse algorithmique– Mise en œuvre des Tests fonctionnels et du Déploiement logiciel– Choix et Conception d’une Architecture Logicielle– Choix et Conception d’une architecture ergonomique logicielle et d’une interface homme-machine (IHM)
+
+
+2
+Génie logiciel et Bases de données
+– Mise en œuvre des démarches adaptées pour l’intégration collaborative et continue d’un environnement de développement logiciel– Mise en œuvre des Bonnes Pratiques connues et partagées du Génie Logiciel– Planification et Gestion de Projet logiciel Métier de bout en bout– Mise en œuvre d’une sécurité logicielle en appliquant des Tests de vulnérabilité et politiques de sécurité normalisées– Conception et réalisation de Bases de Données– Administration de Bases de Données– Mise en œuvre des normes, des protocoles et des politiques de sécurité de bases de données
+
+
+3
+Réseaux informatiques et Télécommunications
+– Conception et Dimensionnement de réseaux informatiques et télécoms d’Entreprise– Administration Systèmes d’exploitation– Déploiement et Administration de réseaux informatiques et télécoms– Mise en place d’un environnement de Virtualisation et de Cloud– Gestion de la Sécurité des réseaux informatiques et télécoms
+
+
+4
+Mathématiques pour l’optimisation et la modélisation
+– Outils Mathématiques pour les statistiques– Outils Mathématiques pour la modélisation numérique et stochastique– Outils Mathématiques pour la recherche opérationnelle– Outils mathématiques pour l’analyse de données
+
+
+5
+Humanités : Communication, Droit, et Relations Humaines
+– Gestion de la Relation Client/Fournisseur– Imprégnation du droit, du droit du travail, de la régulation des TIC– Gouvernance des Systèmes d’Informations– Gestion entrepreneuriale d’un projet (Business Plan, Marchés d’appels d’offres, etc.)– Choix de canevas et Rédaction de rapports de mémoire et de communication– Communication en Français et en Anglais– Méthodologie de Recherche
+
+
+6
+Recherche et Entreprise
+– Immersions en entreprise : Intégration et adaptation en milieu professionnel– Mise en pratique de ses connaissances acquises dans la formation à l’école et en entreprise– Application des règles de vie en milieu professionnel.– Production d’un Mémoire de fin d’études et Soutenance devant un Jury, à la suite des immersions en entreprise.
+
+ 
+
+
+
+ Compétences Eléments de compétences 
+
+
+
+
+
+
+Sur le plan de la recherche, les PER du département du GIT se sont réunis et ont fédéré leurs expertises pour monter un laboratoire de recherche au sein de l’EPT en 2014. Il s’agit du Laboratoire Traitement de l’Information et Systèmes Intelligents (LTISI).Le Service Coordination de la Recherche et de l’Innovation Technologique  (SCRIT) de l’EPT héberge tous les laboratoires de recherche de l’EPT notamment le LTISI.Le LTISI est espace propice à la production, au partage et à la diffusion de connaissances scientifiques et technologique autour des thématiques liées au numérique et aux TIC. Les PER se sont répartis en équipes de recherche sur des problématiques commel’Intelligence Artificielle,l’Ingénierie des Connaissances,l’Analyse de Données,l’Apprentissage Automatique,le Traitement du Signal et des Images,les Big Data,la Recherche Opérationnelle,la Sécurité,les Télécommunications,l’IoTetc.Une dizaine de doctorants ont été encadrée par les PER du GIT depuis 2014, dont 4 ont soutenu leur thèse. Les PER, à travers le LTISI, font preuve d’une grande preuve d’expérience d’organisation de manifestations scientifiques tant à l’échelle nationale que internationale. Il s’agit :du CNRIA 2015 (Colloque National sur la Recherche en Informatique et ses Applications),de l’EMA 2017 (Écoles Mathématiques Africaines), et enfindu CARI 2020 (Colloque Africain sur la Recherche en Informatique)Liste des PER du département GITListe des PER du département GIT
+
+ 
+
+
+
+
+wdt_ID Nom Grade national Grade CAMES Fonctions Spécialités Enseignement & Recherche Année de recrutement 
+
+
+
+
+
+1
+Pr Oumar NIANG
+Professeur Titulaire
+Professeur Titulaire
+Enseignant chercheur,Directeur du Laboratoire LTISI,oniang@ept.sn
+Modélisation mathématique, analyse numérique, traitement et Analyse des signaux et images
+2003
+
+
+2
+Dr Abdoulaye GUISSE
+Maître de conférences Titulaire
+Maître assistant
+Enseignant chercheur,Chef du Département du GIT,aguisse@ept.sn
+Ingénierie des connaissances, Modélisation des SI, Génie Logiciel, Web sémantique, Fouille de textes et NLP
+2013
+
+
+4
+Dr Abdoul Aziz CISS
+Maître de conférences Titulaire
+Maître assistant
+Enseignant chercheur,aaciss@ept.sn
+Sécurité, cryptographie, Bases de Données
+2013
+
+
+5
+Dr Ndeye Fatou NGOM
+Maître de conférences Titulaire
+Maître assistant
+Enseignant chercheur,Responsable pédagogique de la DIC 3, Responsable de la cellule assurance qualité de l’EPT,fngom@ept.sn
+Traitements des signaux et images, Vision par ordinateur, analyse de données, et apprentissage automatique
+2013
+
+
+6
+Dr Mamadou Diallo DIOUF
+Maître de conférences Titulaire
+Maître assistant
+Enseignant chercheur, Adjoint au Service de relations extérieures de l’EPT,mddiouf@ept.sn
+Réseaux Informatiques et Télécommunications
+2013
+
+
+7
+Dr Ibrahima GUEYE
+Maître de conférences Titulaire
+Maître assistant
+Enseignant chercheur, Responsable Fablab de l’EPT,igueye@ept.sn
+Intégration de données, traitement du Big data, cloud computing, IoT
+2015
+
+
+8
+Dr Ahmed Mouhamadou WADE
+Maître de conférences Titulaire
+Maître assistant
+Enseignant chercheur,Responsable pédagogique de la DIC1, Responsable de la division Logicielles & Formations du CRI de l’EPT,awade@ept.sn
+Calcul distribué, théorie des graphes, théorie de la complexité, réseaux informatiques, IoT
+2015
+
+
+9
+Dr Samba SIDIBE
+Maître de conférences Titulaire
+Maître assistant
+Enseignant chercheur, Responsable pédagogique de la DIC2,ssidibe@ept.sn
+Ingénierie des connaissances, Développement JEE, traitement des signaux et images
+2015
+
+ 
+
+
+
+
+
+
+L’aventure de cette formation en alternance débute avec un partenariat fort, entre l’EPT et le Groupe IDYAL SA, une entreprise franco-sénégalaise, qui s’était engagée à nous accompagner sur cinq années entre 2013 et 2018. Ensuite, une dizaine d’autres entreprises partenaires, d’envergure internationale, nous ont rejoint dans cette démarche de co-formation. Nous pouvons citer : Sonatel (depuis 2016), ADN Corp. (depuis 2017), 2SI (depuis 2017), AKKA Maroc (depuis 2019), OuiCarry (depuis 2019), SunTelecoms (depuis 2019), Chaka Computer (depuis 2015), Gainde2000 (depuis 2019), Catalyst (2016-2018), Sentrust (2016-2017), People Input (2015-2017).Le tableau suivant est un récapitulatif des effectifs d’étudiants accueillis par les entreprises durant les immersions dans le cadre de l’alternance.Effectifs d’étudiants accueillis par les entreprises durant les immersions
+
+ 
+
+
+
+
+wdt_ID Partenaire Nbr. d’étudiants formés Années de collaboration 
+
+
+
+
+
+1
+SONATEL
+36
+2016 – 2021
+
+
+2
+ADN Corp.
+8
+2017 – 2020
+
+
+3
+Gainde2000
+4
+2012 – 2019
+
+
+4
+2SI
+5
+2017 – 2020
+
+
+5
+AKKA Maroc
+4
+2019 – 2020
+
+
+6
+ATPS
+2
+2019 – 2020
+
+
+7
+TeamX
+1
+2020
+
+
+8
+Catalyst
+15
+2016-2018
+
+
+9
+Chaka Computer
+8
+2015-2017
+
+
+10
+People Input
+3
+2015-2017
+
+ 
+
+
+
+ Partenaire Nbr. d’étudiants formés Années de collaboration 
+
+
+
+
+
+
+A travers cette formule, le département a pu former des ingénieurs directement opérationnels et absorbés par des entreprises locales ou internationales. Le taux d’insertion avoisine les 100% et pour toutes les cinq premières promotions, entre 2015 et 2019. Seuls quelques-uns des ingénieurs ont poursuivi dans des cursus académique masters spécialisés et de doctorats.Le dispositif de la formation en alternanceLa formation en GIT se fait exclusivement en alternance durant tout le cycle ingénieur (les 3 dernières années), l’élève-ingénieur a un temps de présence de :50% à l’école et 50% en entreprise durant la première année de spécialisation, en DIC1. Chaque étudiant passe 6 mois à l’EPT pour la validation 46 crédits d’enseignements, et 4 à 6 mois minimum de stage pour la validation de 14 crédits liés à son immersion pédagogique en entreprise.40% à l’école et 60% en entreprise durant la deuxième année de spécialisation. Chaque étudiant passe 5 mois à l’EPT pour la validation 42 crédits d’enseignements, et 5 à 7 mois minimum de stage pour la validation de 18 crédits liés à son immersion pédagogique en entreprise.Et enfin 25% à l’école et 75% en entreprise durant la troisième année de spécialisation. Chaque étudiant passe 4 mois à l’EPT pour la validation de 30 crédits d’enseignements, et 6 à 8 mois minimum de stage pour la validation de 18 crédits liés à son immersion pédagogique en entreprise.L’alternance est réglementée dans une convention cadre qui couvre le partenariat entre l’EPT et une entreprise partenaire pour une durée déterminée. Chaque immersion d’un étudiant dans une entreprise est encadrée par un contrat de stage pédagogique tripartite entre l’entreprise, l’EPT et l’étudiant en question. Ce contrat précise les conditions d’accueil, du déroulement du stage, et les attentes des différentes parties.Le suivi et l’évaluation de l’alternance sont pris en charge par un comité de pilotage (CP) et un comité paritaire pédagogique (CPP). Le premier est composé par les dirigeants des deux structures (l’entreprise et de l’EPT). Il se réunit chaque fois que de besoin pour examiner toutes questions utiles au bon déroulement du partenariat. Le CP gère la caution administrative du partenariat.Le second a un rôle de suivi scientifique du déroulement des immersions. Il réunit l’ensemble des enseignants du département du GIT et l’ensemble des employés de l’entreprise, des manageurs chargés d’encadrer et de coacher les étudiants.Le CPP se réunit généralement au début et à la fin de chaque immersion. Au début des immersions, le CPP se charge entre autres de préparer le cadre administratif d’accueil des étudiants en entreprise qu’il soumet au CP pour validation. Il se charge surtout de décliner les contenus pédagogiques des projets soumis aux étudiants et de mettre en place l’environnement matériel et technique nécessaires à la réalisation des projets.Le CPP se réunit aussi à la fin d’une immersion pour faire le bilan. Cela conduit à un réajustement de certains choix pédagogiques, et à l’évaluation du comportement technique et professionnel de chaque étudiant. Un atelier de clôture y est aussi généralement organisé par l’entreprise pour permettre aux étudiants de présenter leurs travaux réalisés durant leur séjour, sous la présence des deux comités de suivi (le CP et le CPP).La relation avec le monde socio-économique se démontre aussi avec les distinctions que des étudiants de l’EPT de formation GIT ont pu décrocher, ainsi que l’offre de formation elle-même. L’alternance produit une bonne visibilité de l’EPT à l’extérieur à travers ses partenaires. Nos étudiants sont très souvent invités à participer à des challenges liés aux TIC, qui mettent en compétitions plusieurs étudiants au niveau national et international.
+Voici quelques-unes de ces distinctions :
+
+Le département GIT a reçu une nomination Jambar Tech dans la catégorie meilleure formation 2016 en TIC, édition 2017.
+Une bourse d’études doctorales pour un étudiant en GIT dans le Centre d’excellence africain CEA-SMA de Cotonou.
+A l’occasion du Hackathon de Orange en 2018, un groupe d’étudiants en GIT, est sorti vainqueur avec leur projet Chatbot facilitant la vie aux usagers de AIBD.
+A l’occasion d’un concours international sur le Machin Learning en 2019, un groupe d’étudiants en GIT a été finaliste.
+A l’occasion du IT compétition international de Huawei en Chine 2019 avec la 4ième place mondiale pour le Sénégal. Le représentant de l’EPT, un étudiant en GIT, M. Mohamed Ndiaye était en tête de file de l’équipe du Sénégal. Il a eu la deuxième meilleure note théorique.
+A l’occasion de la première édition de Huawei IT Compétition en 2019 au Sénégal, les deux représentants du département GIT de l’EPT sont sortis par deux fois dans les 5 premières places et le major par deux fois a été aussi M. Mohamed Ndiaye, devant près de 500 candidats issus des différents établissements d’enseignement supérieur du Sénégal.
+A l’occasion de la première édition de Huawei IT Compétition en 2020 au Sénégal, un groupe de 3 étudiants est sorti vainqueur dans la thématique Intelligence Artificielle (Cloud Computing). Ce groupe représentera le Sénégal à la finale de la compétition internationale en Egypte.
+
+Par ailleurs, bien que prévu initialement dans les missions et les objectifs de formation de l’EPT, la mise en place d’un département en charge de la formation en GIT, s’est amorcée suite à un atelier (du jeudi 28 février au vendredi 1er mars 2013) regroupant des académiques du supérieur et des professionnels, experts des TIC.
+Dans le cadre de l’alternance et à travers le comité paritaire pédagogique (CPP), des commandes spécifiques proviennent des entreprises partenaires pour la mise à jour (MAJ) des programmes d’études exécutés à l’école, afin de faciliter l’adaptation des étudiants en entreprise. Ces MAJ sont généralement des suppléments pédagogiques sous forme de séminaires pour initier les étudiants à des technologies particulièrement utilisées par un partenaire donné. D’ailleurs, l’EPT s’appuie du partenariat, pour inviter des spécialistes de cette entreprise à venir animer ces séminaires.
+Les programmes du GIT ont aussi fait l’objet, en 2014, au courant de sa deuxième promotion, d’une évaluation par une délégation étrangère de la Conférence internationale des Formations d’Ingénieurs et de Techniciens d’Expression Française (CITEF) sur la demande du MESRI. Le CITEF avait, dans son rapport, apprécié positivement le caractère innovant de l’offre de formation GIT.
+Toute la recherche à l’EPT est coordonnée à travers le Service Coordination de la Recherche et de l’Innovation Technologique (SCRIT), créé en 2013 par arrêté N° 000041 MESR/EPT/DIR du 02 janvier 2013, avec pour missions, la redynamisation du secteur de la recherche et la promotion de l’Innovation à l’Ecole Polytechnique de Thiès. Un des objectifs visés par l’EPT est la visibilité et le partage des recherches et des projets en innovation au niveau national et à l’étranger, le SCRIT s’attache:
+
+à cibler les efforts de recherche sur des priorités économiques et sociétales définies au plus
+
+haut niveau de l’Etat et en concertation avec les autres acteurs de la recherche des autres institutions ;
+
+à favoriser la créativité, le décloisonnement, les émergences et les partenariats ;
+à encourager les interactions entre disciplines ;
+à intensifier les liens public-privé :
+et à développer les collaborations internationales en matière de recherche et d’innovation.

@@ -1,0 +1,90 @@
+Le département Tronc Commun de l’Ecole Polytechnique de Thies a pour mission  d’asseoir, en quatre semestres, un socle de formation scientifique et technique  à l’instar des prépas scientifiques intégrées  aux grandes écoles d’ingénieurs.C’est une  formation pluridisciplinaire répartie entre les sciences fondamentales (Mathématiques physique chimie), les  sciences de l’ingénieur, le management, les TIC et les ateliers. Les cours sont communs pour les trois premiers semestres et un début de spécialisation est entamé au quatrième semestre dans la filière de génie choisie.A l’issue de cette formation l’élève aura acquis les outils scientifiques requis  pour suivre normalement son parcours en filière.
+Liste des PER du département TC
+
+
+ 
+
+                                Prénom                
+
+                                Nom                
+
+                                Grade                
+
+                                Spécialités                
+
+
+
+Hamet Yoro 
+
+                                BA                
+
+                                Professeur Assimilé                
+
+
+
+
+
+Ndeye 
+
+                                THIAM                
+
+                                Professeur Assimilé                
+
+
+
+
+
+Ousmane 
+
+                                SEYDI                
+
+                                Professeur Assimilé                
+
+                                Mathématiques                
+
+
+
+Massamba 
+
+                                SY                
+
+                                Maître de conférences Titulaire                
+
+                                Réseaux Informatiques                
+
+
+
+Baba 
+
+                                NGOM                
+
+                                Maître de conférences Titulaire                
+
+
+
+
+
+Mamadou Salla 
+
+                                GUEYE                
+
+                                Maître de conférences Titulaire                
+
+
+
+
+
+Adou 
+
+                                THIAW                
+
+                                Assistant titulaire                
+
+
+
+
+
+
+
+
+Première annéeAnglais Technique  ITravaux d’Atelier  IChimie GénéraleInformatique IInformatique  IICalcul différentiel et Intégral  IAlgèbre LinéaireCalcul différentiel et Intégral  IICinématique et DynamiqueElectromagnétismeDessin Technique IDessin Technique IIGéométrie DescriptiveTechniques d’expressionThermodynamique généraleDeuxième annéeTravaux d’Atelier  II (Option GC et GEM)Comptabilité généraleTransfert de Chaleur (Option GC et GEM)Programmation Avancée (Option GC et GEM)Introduction à l’économieAdm. de l’Entreprise et Relations de travailAnalyse VectorielleEquations différentiellesAnalyse NumériqueProbabilités et StatistiquesCompléments de Maths AppliquéesMécanique Statique (Option GC et GEM)Ondes et Vibrations (Option GC et GEM)Dessin Technique III (DAO, CAO) (Option GC et GEM)DroitScience des Matériaux (Option GC et GEM)Analyse de données (Option GIT)Architecture des Ordinateurs et Système d’Exploitation 1 (Option GIT)Programmation Impérative 1 (Option GIT)Développement Web 1 (Option GIT)Stage Ouvrier
